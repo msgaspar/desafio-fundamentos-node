@@ -2,6 +2,8 @@
 
 Desafio aplicado no bootcamp GoStack para fixação dos conceitos de models, repositories e services, usando o Node.js com Typescript.
 
+São aplicados também os conceitos de arquitetura de software Single Responsibility Principe e Dependency Inversion.
+
 Nesse desafio usamos o Node.js na criação do back-end para uma aplicação que armazena transações financeiras de entrada e saída, permitindo o cadastro
 e a listagem dessas transações.
 
